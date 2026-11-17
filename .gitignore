@@ -1,0 +1,6 @@
+.godot/
+tools/godot/
+export/
+*.tmp
+smoke.png
+.DS_Store
